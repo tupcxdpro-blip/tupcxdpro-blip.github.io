@@ -1,0 +1,24 @@
+<html lang="vi"><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/content/location/location.js" id="eppiocemhmnlbhjplcgkofciiegomcon"></script><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/extend-native-history-api.js"></script><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/requests.js"></script><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>SUBNGON - Nền tảng SMM chuyên nghiệp đa nền tảng cho người Việt</title>
+<meta name="description" content="SUBNGON là nền tảng SMM đa nền tảng hỗ trợ tăng tương tác, follow, like, view, livestream và quản lý đơn hàng, số dư, lịch sử giao dịch, API tích hợp trong một hệ thống tập trung dành cho người Việt.">
+<meta name="keywords" content="SUBNGON, SMM Việt Nam, panel SMM, dịch vụ SMM, tăng follow, tăng like, tăng view, API SMM">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="author" content="SUBNGON">
+<meta name="theme-color" content="#2563eb">
+<link rel="canonical" href="/">
+<link rel="icon" href="/assets/images/favicon.png?v=1778565212" sizes="any">
+<link rel="shortcut icon" href="/assets/images/favicon.png?v=1778565212" sizes="any">
+<link rel="preload" href="/assets/images/logo.png" as="image">
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="vi_VN">
+<meta property="og:site_name" content="SUBNGON">
+<meta property="og:title" content="SUBNGON - Nền tảng SMM chuyên nghiệp đa nền tảng cho người Việt">
+<meta property="og:description" content="SUBNGON là nền tảng SMM đa nền tảng hỗ trợ tăng tương tác, follow, like, view, livestream và quản lý đơn hàng, số dư, lịch sử giao dịch, API tích hợp trong một hệ thống tập trung dành cho người Việt.">
+<meta property="og:image" content="/assets/images/poster.png">
+<meta property="og:url" content="/">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="SUBNGON - Nền tảng SMM chuyên nghiệp đa nền tảng cho người Việt">
